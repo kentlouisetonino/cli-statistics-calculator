@@ -15,4 +15,7 @@ git clone git@github.com:kentlouisetonino/statistics-calculator.git
 python3 index.py
 ```
 
+<br />
+
 ## Recording
+[test.webm](https://user-images.githubusercontent.com/69438999/204091704-71669fd4-8b49-409b-be54-7b267833a925.webm)
