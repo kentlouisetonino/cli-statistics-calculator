@@ -11,7 +11,6 @@
 ## Setup
 > Run the command.
 ```bash
-git clone git@github.com:kentlouisetonino/statistics-calculator.git
 python3 index.py
 ```
 
