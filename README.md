@@ -11,7 +11,7 @@
 ## Setup
 > Run the command.
 ```bash
-python3 index.py
+python3 app.py
 ```
 
 <br />
