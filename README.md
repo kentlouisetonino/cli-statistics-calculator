@@ -3,11 +3,6 @@
     percentile, 50th percentile, and 75th percentile. The main technology stack are Python3 and Numpy.
 
 <br />
-
-[test.webm](https://user-images.githubusercontent.com/69438999/204091704-71669fd4-8b49-409b-be54-7b267833a925.webm)
-
-<br />
-<br />
 <br />
 
 
