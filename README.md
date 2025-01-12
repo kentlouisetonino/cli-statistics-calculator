@@ -1,8 +1,6 @@
 ## Description
 
-> - A CLI computer program that will allow you to <br />
-    input five values and compute the mean, median, <br />
-    25th percentile, 50th percentile, and 75th percentile.
+> - A CLI program that compute mean, median, and percentiles.
 
 <br />
 <br />
